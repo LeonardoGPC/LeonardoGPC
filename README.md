@@ -2,8 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
 
-<details>
-  <summary><h3>:zap: Sobre mi!</h3></summary>
+<h3>:zap: Sobre mi!</h3>
   
   <p align="left"> 
   Desarrollador web Full Stack con formación como diseñador web.<br/><br/>
@@ -32,8 +31,6 @@
   <a href="https://api.whatsapp.com/send?phone=527292551819" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
-  
-</details>
 
 ---
 
