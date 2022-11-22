@@ -12,11 +12,15 @@
 </p>
 
 <p align="left">
-  🦄 Lenguajes: <strong>NodeJs, Express, Sequelize, Postgresql, SQL, React, Redux, Javascript, HTML, CSS.</strong>
+  🦄 Lenguajes: <strong>NodeJs, Express, Sequelize, Postgresql, SQL, React, Redux, Javascript, HTML, CSS, Git, Github, NPM.</strong>
 </p>
 
 <p align="left">
   ⚙️ Frameworks: <strong>Typescript, Bootstrap, Tailwind, VueJs, Framer Motion, Chakra UI.</strong>
+</p>
+
+<p align="left">
+  💼 Herramientas: <strong>Visual Studio Code, Figma, Illustrator, Photoshop, Trello, Vercel, Heroku, Postman.</strong>
 </p>
 
 <p align="left">
