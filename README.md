@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=Gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=Gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LeonardoGPC/LeonardoGPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
